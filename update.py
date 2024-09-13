@@ -31,7 +31,7 @@ def fetch_rss(feed):
     return articles
 
 def dump_to_jsonl(file, feed):
-    with open(file, "a", encoding="utf-8") as f:
+    with open(file, "a+", encoding="utf-8") as f:
         for item in feed:
             json.dump(item, f, ensure_ascii=False)
             f.write("\n")
