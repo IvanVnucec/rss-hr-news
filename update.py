@@ -15,16 +15,16 @@ def fetch_rss(feed):
     articles = []
     for item in items:
         try:
+            datetime_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             title = item.find("title").text
             link = item.find("link").text
             description = item.find("description").text
             description = re.sub(r"<.*?>", "", description)
-            datetime_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             articles.append({
+                "datetime": datetime_now,
                 "title": title,
                 "link": link,
                 "description": description,
-                "datetime": datetime_now
             })
         except Exception as e:
             print(f"Error '{feed}': {e}")
