@@ -17,5 +17,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email ""
           git add .
-          git diff-index --quiet HEAD || git commit --amend --no-edit
-          git push --force
+          git diff-index --quiet HEAD || git commit -m "periodic analysis"
+          git push
