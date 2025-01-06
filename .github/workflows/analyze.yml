@@ -3,8 +3,7 @@ name: periodic-analyze
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */7 * *' # This cron expression runs at midnight every 7 days
-
+    - cron: '0 23 * * 1'
 jobs:
   periodic-analyze:
     runs-on: ubuntu-latest
