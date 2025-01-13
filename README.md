@@ -1,33 +1,63 @@
 # Tjedna analiza frekvencija riječi u hrvatskim medijima
 
+## 2025-W03
+
+```text
+1. nakon: 64           2. koji: 61            3. kako: 54            4. što: 54            
+5. milanović: 54       6. ponedjeljak: 41     7. nije: 34            8. predsjednik: 34    
+9. zbog: 32            10. zorana: 31         11. zoran: 30          12. ali: 29           
+13. danas: 27          14. plenković: 27      15. milanovića: 27     16. kao: 27           
+17. primorac: 27       18. godine: 26         19. milanoviću: 26     20. koja: 26          
+21. kod: 26            22. koje: 25           23. sve: 25            24. predsjedničkim: 22
+25. video: 22          26. predsjednika: 21   27. više: 21           28. čestitao: 21      
+29. dragana: 20        30. posto: 20          31. the: 19            32. samo: 18          
+33. los: 18            34. osvojio: 18        35. hdz-a: 17          36. dva: 17           
+37. primorca: 17       38. predsjedničkih: 17 39. hrvatske: 16       40. milijuna: 16      
+41. još: 16            42. sada: 16           43. bio: 16            44. dok: 16           
+45. dragan: 16         46. hrvatskoj: 15      47. ili: 15            48. premijer: 15      
+49. oko: 15            50. zoranu: 15         51. pobijedio: 15      52. izborima: 14      
+53. prije: 14          54. smo: 14            55. glasova: 14        56. novi: 14          
+57. izbora: 14         58. dan: 14            59. ---: 14            60. objavio: 13       
+61. andrej: 13         62. vozila: 13         63. već: 13            64. rekao: 13         
+65. republike: 13      66. ima: 13            67. drugom: 13         68. drugi: 13         
+69. biti: 12           70. inauguraciju: 12   71. može: 12           72. dvije: 12         
+73. eura: 12           74. pozvao: 12         75. hdz: 12            76. ovo: 12           
+77. ove: 12            78. nad: 12            79. bila: 12           80. pogledajte: 12    
+81. krugu: 12          82. sankcije: 11       83. koju: 11           84. prema: 11         
+85. izborima.: 11      86. ljudi: 11          87. sam: 11            88. kandidat: 11      
+89. bilo: 11           90. pobjede: 11        91. skupine: 10        92. predsjedništva: 10
+93. neće: 10           94. srbije: 10         95. vlada: 10          96. hrvatska: 10      
+97. šest: 10           98. policija: 10       99. prošle: 10         100. svoje: 10        
+```
+
 ## 2025-W02
 
 ```text
-1. koji: 82         2. što: 56          3. nakon: 49        4. kako: 40        
-5. biti: 37         6. nije: 37         7. koje: 33         8. zbog: 30        
-9. predsjednik: 29  10. sve: 29         11. koja: 29        12. kao: 27        
-13. the: 25         14. ali: 24         15. rekao: 23       16. godine: 22     
-17. zlatnih: 22     18. samo: 21        19. bio: 21         20. još: 20        
-21. više: 20        22. premijer: 19    23. ponedjeljak: 19 24. ove: 19        
-25. danas: 19       26. smo: 18         27. svi: 18         28. dana: 18       
-29. tri: 17         30. jedan: 17       31. tijekom: 17     32. bez: 17        
-33. trudeau: 17     34. globusa: 17     35. gdje: 16        36. prema: 15      
-37. ili: 15         38. koju: 15        39. prije: 15       40. ima: 14        
-41. nego: 14        42. oko: 14         43. dva: 14         44. kanadski: 14   
-45. dok: 14         46. sada: 14        47. može: 14        48. video: 14      
-49. mogu: 13        50. bilo: 13        51. kada: 13        52. drugi: 13      
-53. dodjeli: 13     54. godina: 13      55. sam: 13         56. eura: 13       
-57. bila: 13        58. nekoliko: 13    59. već: 13         60. pozvao: 12     
-61. neće: 12        62. nas: 12         63. treba: 12       64. justin: 12     
-65. milanović: 12   66. ovo: 12         67. kad: 12         68. bivši: 12      
-69. milijuna: 12    70. plenković: 11   71. nove: 11        72. 2025.: 11      
-73. zašto: 11       74. stranke: 11     75. trump: 11       76. hrvatske: 11   
-77. julijanskom: 10 78. škole: 10       79. hrvatska: 10    80. jer: 10        
-81. čelnika: 10     82. ureda: 10       83. jednom: 10      84. prvi: 10       
-85. hrvatski: 10    86. primorac: 10    87. kod: 10         88. vijeće: 9      
-89. tisuća: 9       90. drugog: 9       91. njegov: 9       92. objavio: 9     
-93. svoje: 9        94. vrijeme: 9      95. pred: 9         96. evo: 9         
-97. sezone: 9       98. kojeg: 9        99. među: 9         100. tako: 9       
+1. koji: 522           2. što: 335            3. nakon: 300          4. kako: 285          
+5. zbog: 255           6. nije: 231           7. koje: 208           8. danas: 198         
+9. više: 190           10. još: 173           11. sve: 167           12. koja: 164         
+13. predsjednik: 162   14. biti: 158          15. kao: 152           16. los: 149          
+17. the: 147           18. ali: 135           19. prema: 133         20. smo: 128          
+21. milanović: 128     22. video: 122         23. godine: 118        24. dana: 109         
+25. protiv: 108        26. dva: 107           27. bio: 107           28. oko: 106          
+29. ljudi: 105         30. godina: 105        31. prije: 105         32. predsjednika: 103 
+33. samo: 102          34. bez: 96            35. trump: 95          36. predsjedničkih: 95
+37. nego: 94           38. tri: 93            39. jedan: 92          40. jer: 92           
+41. može: 91           42. ili: 89            43. sam: 88            44. ima: 87           
+45. primorac: 87       46. kada: 86           47. tijekom: 85        48. objavio: 85       
+49. hrvatske: 84       50. kod: 84            51. posto: 83          52. hrvatskoj: 83     
+53. već: 83            54. rekao: 82          55. eura: 81           56. ove: 80           
+57. sada: 77           58. utorak: 75         59. gdje: 74           60. izbora: 74        
+61. pogledajte: 74     62. nedjelju: 74       63. policija: 73       64. ovo: 73           
+65. svi: 72            66. dragan: 72         67. nove: 71           68. drugi: 71         
+69. milijuna: 71       70. novi: 70           71. dok: 70            72. evo: 70           
+73. prvi: 70           74. objavila: 70       75. sad: 69            76. zoran: 69         
+77. hrvatski: 67       78. cijene: 66         79. bila: 64           80. najmanje: 64      
+81. krugu: 64          82. neće: 63           83. pred: 63           84. hrvatska: 62      
+85. mogu: 62           86. nisu: 62           87. premijer: 61       88. drugom: 61        
+89. požara: 61         90. zagrebu: 60        91. koju: 60           92. svoje: 60         
+93. uoči: 59           94. ako: 59            95. bilo: 57           96. tko: 56           
+97. pet: 56            98. dan: 56            99. ministar: 55       100. bivši: 55        
 ```
 
 ## 2025-W01
