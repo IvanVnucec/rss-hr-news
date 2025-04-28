@@ -1,33 +1,63 @@
 # Tjedna analiza frekvencija riječi u hrvatskim medijima
 
+## 2025-W18
+
+```text
+1. koji: 70            2. što: 46             3. ponedjeljak: 40     4. nakon: 38          
+5. kako: 32            6. danas: 31           7. predsjednik: 27     8. sve: 27            
+9. više: 26            10. predao: 25         11. kandidat: 25       12. nije: 24          
+13. novi: 23           14. koje: 23           15. još: 22            16. ali: 22           
+17. koja: 22           18. zbog: 22           19. bez: 21            20. ima: 20           
+21. trump: 20          22. pape: 20           23. rekao: 20          24. gradonačelnika: 20
+25. struje: 19         26. jedan: 19          27. policija: 19       28. samo: 19          
+29. bio: 19            30. smo: 19            31. kod: 19            32. novog: 18         
+33. veliki: 17         34. kao: 17            35. španjolske: 16     36. objavio: 16       
+37. prvi: 16           38. ovo: 16            39. nego: 15           40. dok: 14           
+41. biti: 14           42. posto: 14          43. ministar: 14       44. nad: 14           
+45. put: 14            46. dana: 14           47. sada: 14           48. potpisa: 14       
+49. video: 14          50. dva: 13            51. milijuna: 13       52. mora: 13          
+53. svoju: 13          54. evo: 13            55. nestanka: 13       56. godine: 13        
+57. hrvatskoj: 12      58. dijelovi: 12       59. ispred: 12         60. želi: 12          
+61. eura: 12           62. prema: 12          63. hrvatske: 12       64. jer: 12           
+65. izbornom: 12       66. najavio: 12        67. kada: 12           68. kandidaturu: 12   
+69. ostali: 11         70. novom: 11          71. gdje: 11           72. hdz-a: 11         
+73. među: 11           74. izborima: 11       75. donald: 11         76. primirje: 11      
+77. putin: 11          78. već: 11            79. ponovno: 11        80. potpise: 11       
+81. pogledajte: 11     82. bilo: 11           83. raspudić: 11       84. hrvatska: 10      
+85. portugala: 10      86. struje.: 10        87. čak: 10            88. koju: 10          
+89. župana: 10         90. zašto: 10          91. helikopter: 10     92. rusija: 10        
+93. kojem: 10          94. ili: 9             95. dan: 9             96. američki: 9       
+97. ratu.: 9           98. izbor: 9           99. između: 9          100. postati: 9       
+```
+
 ## 2025-W17
 
 ```text
-1. papa: 150        2. pape: 106        3. koji: 90         4. nakon: 73       
-5. franjo: 72       6. što: 65          7. smrti: 60        8. bio: 57         
-9. kako: 53         10. ponedjeljak: 43 11. ali: 42         12. nije: 39       
-13. franje: 38      14. umro: 38        15. sve: 33         16. rekao: 33      
-17. predsjednik: 33 18. papi: 32        19. više: 30        20. koje: 28       
-21. kao: 28         22. prema: 27       23. video: 25       24. papu: 24       
-25. biti: 24        26. prvi: 24        27. katoličke: 24   28. danas: 24      
-29. svetog: 22      30. još: 22         31. godina: 22      32. objavio: 22    
-33. preminuo: 22    34. evo: 22         35. njegova: 21     36. koja: 21       
-37. trump: 21       38. novog: 20       39. vijest: 20      40. kada: 20       
-41. crkve: 19       42. kad: 19         43. ovo: 19         44. frane: 18      
-45. bila: 18        46. samo: 18        47. sam: 18         48. dana: 17       
-49. svoje: 17       50. njegov: 17      51. putin: 16       52. diljem: 16     
-53. zbog: 16        54. neće: 16        55. nadbiskup: 15   56. svijet: 15     
-57. kojoj: 15       58. uskrsnog: 14    59. uskrsni: 14     60. franje,: 14    
-61. već: 14         62. tko: 14         63. smrt: 14        64. tijekom: 13    
-65. put: 13         66. poglavara: 13   67. vatikanu: 13    68. sada: 13       
-69. vrijeme: 12     70. crkve,: 12      71. američki: 12    72. izboru: 12     
-73. dobi: 12        74. iza: 12         75. sveti: 12       76. franji: 12     
-77. kardinal: 12    78. među: 12        79. ruski: 12       80. vladimir: 12   
-81. imao: 12        82. tri: 12         83. jedan: 12       84. ministar: 12   
-85. mnoge: 11       86. dok: 11         87. svi: 11         88. svijeta: 11    
-89. franjo.: 11     90. franje:: 11     91. vatikan: 11     92. gdje: 11       
-93. prije: 11       94. smo: 11         95. ima: 11         96. primirja: 10   
-97. bilo: 10        98. crkva: 10       99. iako: 10        100. dva: 10       
+1. koji: 490          2. pape: 415          3. što: 407           4. nakon: 357        
+5. kako: 353          6. papa: 291          7. predsjednik: 240   8. zbog: 211         
+9. danas: 206         10. koja: 195         11. bio: 193          12. nije: 192        
+13. više: 191         14. koje: 189         15. biti: 183         16. trump: 180       
+17. sve: 175          18. rekao: 173        19. franje: 172       20. kao: 168         
+21. ali: 155          22. prema: 143        23. franjo: 141       24. još: 129         
+25. kod: 126          26. video: 116        27. dana: 114         28. smrti: 113       
+29. svetog: 112       30. godine: 110       31. oko: 109          32. predsjednika: 109
+33. američki: 104     34. objavio: 102      35. samo: 101         36. već: 101         
+37. ovo: 101          38. ljudi: 100        39. jedan: 100        40. prije: 99        
+41. prvi: 96          42. novi: 96          43. ili: 95           44. subotu: 92       
+45. donald: 89        46. gdje: 89          47. smo: 89           48. kada: 89         
+49. ima: 89           50. novog: 88         51. dva: 87           52. tri: 86          
+53. dok: 84           54. policija: 84      55. evo: 84           56. sam: 84          
+57. ove: 81           58. sada: 80          59. ako: 78           60. godina: 77       
+61. papi: 77          62. kojoj: 77         63. hrvatske: 76      64. tijekom: 75      
+65. dan: 75           66. pogledajte: 74    67. može: 73          68. tko: 72          
+69. neće: 71          70. između: 70        71. ponedjeljak: 69   72. svoje: 69        
+73. bila: 68          74. bez: 68           75. put: 67           76. ruski: 67        
+77. premijer: 66      78. kardinal: 66      79. objavila: 65      80. među: 64         
+81. ministar: 64      82. franje,: 63       83. hrvatski: 63      84. bilo: 62         
+85. umro: 62          86. protiv: 62        87. hrvatskoj: 62     88. frane: 61        
+89. eura: 61          90. njegova: 60       91. dvije: 60         92. kad: 59          
+93. zašto: 59         94. petra: 59         95. sprovod: 59       96. nisu: 57         
+97. milijuna: 57      98. papu: 56          99. četvrtak: 54      100. rusija: 53      
 ```
 
 ## 2025-W16
