@@ -1,33 +1,63 @@
 # Tjedna analiza frekvencija riječi u hrvatskim medijima
 
+## 2025-W26
+
+```text
+1. koji: 62         2. iran: 57         3. što: 52          4. nakon: 48       
+5. kako: 45         6. nije: 42         7. zbog: 33         8. kao: 33         
+9. više: 32         10. još: 31         11. ali: 30         12. ponedjeljak: 29
+13. koje: 28        14. napada: 26      15. američke: 26    16. dana: 25       
+17. biti: 24        18. sve: 24         19. trump: 23       20. američki: 21   
+21. tri: 21         22. koja: 20        23. protiv: 19      24. predsjednik: 19
+25. eura: 19        26. video: 19       27. iranska: 18     28. sad: 18        
+29. iranski: 18     30. jer: 17         31. napao: 17       32. napad: 17      
+33. bio: 17         34. hrvatska: 16    35. danas: 16       36. nuklearna: 16  
+37. prema: 16       38. bilo: 15        39. smo: 15         40. ljudi: 15      
+41. svoje: 15       42. samo: 15        43. novi: 15        44. dok: 15        
+45. irana: 14       46. baze: 14        47. ima: 14         48. oko: 13        
+49. milijuna: 13    50. ovo: 13         51. između: 12      52. tko: 12        
+53. cijene: 12      54. objavio: 12     55. već: 12         56. evo: 12        
+57. bez: 11         58. nas: 11         59. američkog: 11   60. postrojenja: 11
+61. posto: 11       62. izjavio: 11     63. godine: 11      64. nema: 11       
+65. američkih: 11   66. kataru: 11      67. ovog: 11        68. koliko: 11     
+69. kod: 11         70. obranu: 10      71. plenković: 10   72. izraela: 10    
+73. prije: 10       74. oružja: 10      75. plan: 10        76. ove: 10        
+77. ili: 10         78. vanjskih: 10    79. poslova: 10     80. rusija: 10     
+81. sam: 10         82. nekoliko: 10    83. iranu: 10       84. objavila: 10   
+85. prvi: 10        86. kada: 10        87. nato-a: 9       88. očekuje: 9     
+89. mjesec: 9       90. hormuški: 9     91. nafte: 9        92. napade: 9      
+93. nuklearnog: 9   94. bliskom: 9      95. iranskog: 9     96. tijekom: 9     
+97. mogu: 9         98. neki: 9         99. koju: 9         100. nego: 9       
+```
+
 ## 2025-W25
 
 ```text
-1. koji: 52           2. što: 46            3. nakon: 43          4. kako: 33          
-5. sve: 33            6. danas: 27          7. zbog: 26           8. prema: 26         
-9. ali: 25            10. biti: 24          11. više: 24          12. još: 24          
-13. želi: 23          14. dok: 23           15. izrael: 22        16. godine: 22       
-17. koje: 22          18. nije: 21          19. već: 21           20. iran: 21         
-21. irana: 20         22. izraela: 20       23. između: 20        24. kao: 19          
-25. bio: 18           26. kod: 18           27. dana: 18          28. ljudi: 17        
-29. samo: 17          30. ministar: 17      31. dva: 17           32. video: 17        
-33. tijekom: 17       34. hrvatska: 16      35. predsjednik: 16   36. novi: 16         
-37. ponedjeljak: 16   38. trump: 15         39. ima: 15           40. evo: 15          
-41. oko: 14           42. izraelski: 14     43. sam: 14           44. kostanjević: 13  
-45. smo: 13           46. premijer: 13      47. tri: 12           48. među: 12         
-49. bez: 12           50. paga: 12          51. kojoj: 12         52. koja: 12         
-53. protiv: 11        54. eura: 11          55. uhićen: 11        56. svoje: 11        
-57. iranske: 11       58. bilo: 11          59. kosta: 10         60. uhićenja: 10     
-61. uprave: 10        62. prvi: 10          63. nedjelju: 10      64. gdje: 10         
-65. dan: 10           66. milijuna: 10      67. sukob: 10         68. put: 10          
-69. bivši: 10         70. teško: 10         71. tko: 10           72. nova: 10         
-73. gradonačelnik: 10 74. muškarac: 10      75. jedna: 10         76. hrvatske: 9      
-77. iako: 9           78. proizvodnji: 9    79. prije: 9          80. sati: 9          
-81. koju: 9           82. jedan: 9          83. godina: 9         84. uvijek: 9        
-85. vodeća: 9         86. parkiralištu: 9   87. centra: 9         88. akcija: 9        
-89. kada: 9           90. policija: 8       91. ivan: 8           92. nema: 8          
-93. ulice: 8          94. vojne: 8          95. napad: 8          96. nekoliko: 8      
-97. donald: 8         98. nego: 8           99. dinamo: 8         100. pogledajte: 8   
+1. koji: 438         2. što: 351          3. nakon: 305        4. kako: 268        
+5. zbog: 253         6. ali: 192          7. prema: 189        8. danas: 176       
+9. nije: 175         10. koje: 174        11. sve: 169         12. iran: 169       
+13. više: 162        14. koja: 158        15. predsjednik: 153 16. još: 140        
+17. kao: 139         18. kod: 136         19. trump: 133       20. dok: 130        
+21. dana: 128        22. biti: 128        23. video: 123       24. evo: 122        
+25. bio: 112         26. oko: 111         27. već: 109         28. ljudi: 105      
+29. tri: 98          30. samo: 97         31. jedan: 97        32. dva: 97         
+33. novi: 97         34. ima: 94          35. rekao: 93        36. smo: 92         
+37. između: 91       38. protiv: 91       39. izrael: 91       40. policija: 87    
+41. bez: 87          42. američki: 86     43. godine: 86       44. ministar: 83    
+45. gdje: 81         46. sam: 78          47. hrvatska: 76     48. sad: 76         
+49. godina: 76       50. može: 76         51. irana: 75        52. prije: 75       
+53. objavio: 74      54. iranski: 74      55. pogledajte: 72   56. izraela: 71     
+57. dan: 71          58. napad: 71        59. svoje: 71        60. jer: 70         
+61. hrvatski: 70     62. prvi: 69         63. hrvatske: 68     64. milijuna: 68    
+65. bilo: 68         66. pod: 67          67. tijekom: 67      68. ili: 67         
+69. foto: 66         70. napada: 65       71. nekoliko: 64     72. donald: 64      
+73. ovo: 63          74. eura: 62         75. kada: 61         76. pet: 61         
+77. koliko: 59       78. bila: 58         79. premijer: 58     80. ove: 58         
+81. području: 58     82. put: 57          83. kad: 57          84. jedna: 57       
+85. hrvatskoj: 56    86. nema: 55         87. ako: 55          88. tko: 55         
+89. požar: 55        90. mogu: 55         91. iako: 54         92. neće: 54        
+93. dinamo: 54       94. sada: 54         95. radi: 54         96. sati: 53        
+97. nove: 53         98. među: 51         99. želi: 51         100. petak: 50      
 ```
 
 ## 2025-W24
