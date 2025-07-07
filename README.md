@@ -1,33 +1,63 @@
 # Tjedna analiza frekvencija riječi u hrvatskim medijima
 
+## 2025-W28
+
+```text
+1. koji: 77         2. što: 54          3. kako: 44         4. nakon: 42       
+5. nije: 40         6. više: 32         7. zbog: 30         8. ali: 29         
+9. kod: 28          10. kao: 28         11. danas: 26       12. koja: 24       
+13. predsjednik: 23 14. biti: 21        15. koje: 20        16. ponedjeljak: 19
+17. dva: 19         18. sve: 19         19. bez: 19         20. ljudi: 19      
+21. hrvatske: 18    22. dana: 18        23. video: 18       24. ovo: 18        
+25. policija: 17    26. još: 17         27. godine: 17      28. samo: 17       
+29. bilo: 16        30. prema: 16       31. ima: 16         32. milijuna: 15   
+33. smo: 15         34. evo: 15         35. ---: 15         36. nevrijeme: 14  
+37. ponovno: 14     38. ovaj: 14        39. ivan: 14        40. sada: 14       
+41. bio: 14         42. oko: 14         43. godina: 13      44. protiv: 13     
+45. novi: 13        46. tri: 13         47. tko: 13         48. koliko: 13     
+49. dvije: 12       50. eura: 12        51. mora: 12        52. tako: 12       
+53. jedan: 12       54. svoje: 12       55. pogledajte: 12  56. hrvatska: 12   
+57. ili: 12         58. dok: 11         59. ruski: 10       60. ministar: 10   
+61. koncerta: 10    62. neki: 10        63. zagreb: 10      64. koncert: 10    
+65. europski: 10    66. tijekom: 10     67. rekao: 10       68. može: 10       
+69. foto: 10        70. tisuća: 10      71. đoković: 10     72. wimbledona: 10 
+73. plenković: 10   74. kada: 10        75. zagrebu: 9      76. osobe: 9       
+77. odao: 9         78. počast: 9       79. gdje: 9         80. zašto: 9       
+81. kojoj: 9        82. kad: 9          83. thompsonovom: 9 84. koncertu: 9    
+85. dio: 9          86. muškarac: 9     87. posto: 9        88. predsjednika: 8
+89. sati: 8         90. nedjelju: 8     91. nisu: 8         92. već: 8         
+93. zahvatilo: 8    94. europske: 8     95. parlament: 8    96. žrtvama: 8     
+97. šest: 8         98. nam: 8          99. srpnja: 8       100. objavio: 8    
+```
+
 ## 2025-W27
 
 ```text
-1. koji: 62         2. što: 51          3. kako: 45         4. nakon: 37       
-5. zbog: 30         6. danas: 29        7. ponedjeljak: 28  8. više: 28        
-9. nije: 25         10. kao: 24         11. ali: 24         12. još: 23        
-13. policija: 22    14. protiv: 22      15. predsjednik: 21 16. sve: 21        
-17. napao: 20       18. biti: 20        19. video: 20       20. koja: 19       
-21. već: 19         22. prema: 18       23. hrvatska: 18    24. ljudi: 18      
-25. sam: 17         26. može: 17        27. novi: 17        28. bez: 17        
-29. oko: 16         30. kod: 16         31. rekao: 16       32. samo: 16       
-33. ima: 15         34. koje: 15        35. ovo: 15         36. dinamo: 14     
-37. nove: 14        38. tijekom: 13     39. evo: 13         40. dana: 12       
-41. ili: 12         42. nisu: 12        43. bio: 12         44. koju: 12       
-45. požar: 11       46. sati: 11        47. vozio: 11       48. napada: 11     
-49. hrvatskoj: 11   50. smo: 11         51. zagrebu: 11     52. prvi: 11       
-53. gotovo: 10      54. subotu: 10      55. pet: 10         56. mjeseci: 10    
-57. jednom: 10      58. prosvjedi: 10   59. ministar: 10    60. eura: 10       
-61. jedan: 10       62. pomoć: 9        63. 249: 9          64. između: 9      
-65. cijena: 9       66. radi: 9         67. koliko: 9       68. šest: 9        
-69. predsjednika: 9 70. ivan: 9         71. hajduk: 9       72. snimka: 9      
-73. vučić: 9        74. veliki: 8       75. dva: 8          76. autocesti: 8   
-77. kolodvoru: 8    78. vrijeme: 8      79. dio: 8          80. nego: 8        
-81. zemlje: 8       82. prije: 8        83. ukrajina: 8     84. postigli: 8    
-85. trgovini: 8     86. jer: 8          87. hrvatske: 8     88. godine: 8      
-89. svoje: 8        90. ako: 8          91. gdje: 8         92. srbiji: 8      
-93. ugovor: 8       94. uskoro: 8       95. maroka: 7       96. pod: 7         
-97. policajku: 7    98. zagrebačka: 7   99. potvrdila: 7    100. muškarac: 7   
+1. koji: 410         2. što: 331          3. nakon: 275        4. kako: 272        
+5. zbog: 232         6. danas: 215        7. sve: 214          8. više: 202        
+9. koncerta: 187     10. nije: 173        11. marka: 171       12. perkovića: 166  
+13. koje: 164        14. koncert: 163     15. video: 162       16. koja: 157       
+17. ali: 154         18. prema: 142       19. ljudi: 139       20. thompsona: 138  
+21. kao: 134         22. biti: 131        23. još: 128         24. oko: 127        
+25. policija: 125    26. samo: 122        27. evo: 121         28. bez: 114        
+29. kod: 113         30. predsjednik: 108 31. već: 108         32. zagrebu: 105    
+33. hipodromu: 103   34. bio: 100         35. dana: 99         36. tijekom: 98     
+37. jedan: 98        38. smo: 97          39. protiv: 96       40. pogledajte: 96  
+41. dok: 94          42. milijuna: 94     43. thompsonov: 86   44. novi: 85        
+45. dva: 84          46. foto: 84         47. može: 83         48. tri: 83         
+49. rekao: 82        50. dan: 81          51. uoči: 80         52. prije: 80       
+53. godine: 80       54. ima: 78          55. zagrebačkom: 77  56. ovo: 76         
+57. hrvatska: 74     58. ili: 74          59. hrvatskoj: 73    60. eura: 71        
+61. thompson: 71     62. gdje: 69         63. trump: 67        64. koliko: 67      
+65. bilo: 66         66. pod: 63          67. hrvatske: 63     68. kad: 62         
+69. jer: 61          70. prvi: 61         71. objavio: 61      72. veliki: 60      
+73. sati: 60         74. nisu: 60         75. nekoliko: 60     76. među: 59        
+77. koju: 58         78. nove: 58         79. pola: 57         80. sam: 56         
+81. sada: 56         82. dio: 55          83. nego: 55         84. između: 54      
+85. svoje: 54        86. vrijeme: 53      87. svi: 53          88. novom: 53       
+89. ako: 53          90. piše: 53         91. godina: 52       92. objavila: 52    
+93. kojem: 51        94. ministarstvo: 51 95. pet: 50          96. službe: 49      
+97. ove: 49          98. američki: 49     99. poslova: 49      100. četvrtak: 49   
 ```
 
 ## 2025-W26
