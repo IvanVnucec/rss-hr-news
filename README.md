@@ -1,33 +1,63 @@
 # Tjedna analiza frekvencija riječi u hrvatskim medijima
 
+## 2025-W34
+
+```text
+1. nakon: 56         2. koji: 55          3. što: 50           4. zbog: 42         
+5. kako: 41          6. nije: 39          7. koje: 37          8. danas: 32        
+9. predsjednik: 31   10. više: 29         11. predsjednika: 24 12. trump: 24       
+13. kao: 23          14. dok: 23          15. dva: 22          16. koja: 22        
+17. zelenski: 22     18. tijekom: 21      19. sve: 21          20. prema: 19       
+21. bez: 18          22. kući: 17         23. policija: 17     24. evo: 17         
+25. video: 17        26. smo: 17          27. ali: 16          28. sada: 16        
+29. bilo: 16         30. republike: 15    31. već: 15          32. ponedjeljak: 15 
+33. bijeloj: 15      34. protiv: 15       35. hrvatski: 14     36. hamas: 14       
+37. prihvatio: 14    38. novi: 14         39. bio: 14          40. ljudi: 14       
+41. oko: 14          42. sam: 14          43. rekao: 13        44. kod: 13         
+45. dvije: 13        46. jedan: 13        47. još: 12          48. gdje: 12        
+49. može: 12         50. ili: 12          51. ima: 12          52. otkrio: 12      
+53. biti: 11         54. dana: 11         55. svoje: 11        56. sastanak: 11    
+57. samo: 11         58. sastanka: 11     59. godine: 10       60. nove: 10        
+61. godina: 10       62. prijedlog: 10    63. ruski: 10        64. gotovo: 10      
+65. pred: 10         66. kad: 10          67. foto: 10         68. putin: 10       
+69. zelenskog: 10    70. odluku: 9        71. mora: 9          72. ministarstvo: 9 
+73. grbin: 9         74. ove: 9           75. jer: 9           76. nam: 9          
+77. izraelom: 9      78. talaca: 9        79. put: 9           80. tri: 9          
+81. kada: 9          82. hajduk: 9        83. predsjednikom: 9 84. ukrajinski: 9   
+85. teško: 9         86. pogledajte: 9    87. želi: 9          88. uoči: 9         
+89. dodik: 9         90. bih: 8           91. odluka: 8        92. hrvatske: 8     
+93. manje: 8         94. komentirao: 8    95. sezone: 8        96. američki: 8     
+97. donald: 8        98. veliki: 8        99. nedjelju: 8      100. ukrajini: 8    
+```
+
 ## 2025-W33
 
 ```text
-1. koji: 61         2. kako: 44         3. gabi: 43         4. nakon: 37       
-5. što: 37          6. koja: 34         7. nije: 31         8. trump: 30       
-9. predsjednik: 30  10. zbog: 28        11. ponedjeljak: 27 12. kao: 26        
-13. još: 25         14. nekoliko: 24    15. više: 24        16. ali: 23        
-17. biti: 23        18. sve: 23         19. hrvatske: 22    20. dana: 22       
-21. novak: 22       22. bila: 21        23. policija: 21    24. sam: 21        
-25. kod: 19         26. danas: 19       27. protiv: 18      28. koje: 18       
-29. rekao: 18       30. prema: 18       31. američki: 17    32. prije: 17      
-33. godine: 17      34. dva: 16         35. bez: 16         36. tri: 16        
-37. između: 15      38. već: 15         39. video: 15       40. hrvatska: 14   
-41. pet: 14         42. bio: 14         43. godina: 14      44. ima: 14        
-45. samo: 14        46. donald: 13      47. sada: 13        48. ili: 13        
-49. očekuje: 12     50. pomoć: 12       51. evo: 12         52. oko: 12        
-53. jedan: 12       54. ovo: 12         55. kojoj: 11       56. crnoj: 11      
-57. dok: 11         58. nedjelju: 11    59. trumpa: 11      60. najavio: 11    
-61. otkrio: 11      62. nas: 11         63. može: 10        64. objavio: 10    
-65. ljudi: 10       66. neće: 10        67. gdje: 10        68. svoje: 10      
-69. premijer: 10    70. šalje: 9        71. nacionalnu: 9   72. pod: 9         
-73. požara: 9       74. ministarstva: 9 75. ljudima: 9      76. ministarstvo: 9
-77. uoči: 9         78. putina: 9       79. sastanak: 9     80. sati: 9        
-81. dinamo: 9       82. mora: 9         83. ako: 9          84. foto: 9        
-85. brodu: 9        86. šef: 9          87. godinama: 9     88. jer: 9         
-89. novi: 9         90. putin: 9        91. glavni: 9       92. bilo: 9        
-93. izraelski: 9    94. među: 9         95. gori: 8         96. crna: 8        
-97. toplinski: 8    98. četiri: 8       99. čemu: 8         100. prvi: 8       
+1. koji: 444         2. nakon: 337        3. kako: 335         4. što: 331         
+5. zbog: 224         6. nije: 208         7. predsjednik: 188  8. ali: 180         
+9. trump: 175        10. koje: 175        11. sve: 172         12. kao: 167        
+13. koja: 162        14. više: 158        15. danas: 156       16. kod: 155        
+17. prema: 142       18. policija: 129    19. video: 127       20. protiv: 124     
+21. putin: 121       22. još: 120         23. biti: 118        24. rekao: 111      
+25. sam: 109         26. bez: 108         27. novi: 104        28. trumpa: 103     
+29. jedan: 102       30. samo: 102        31. hrvatske: 100    32. dana: 100       
+33. oko: 100         34. godina: 96       35. godine: 95       36. evo: 92         
+37. bio: 91          38. već: 89          39. dva: 86          40. dok: 86         
+41. predsjednika: 85 42. prije: 84        43. između: 83       44. tri: 83         
+45. ovo: 83          46. ima: 80          47. američki: 79     48. ljudi: 79       
+49. donald: 78       50. gdje: 78         51. može: 75         52. tijekom: 73     
+53. pogledajte: 70   54. sastanak: 69     55. sada: 69         56. ukrajini: 68    
+57. ili: 67          58. petak: 66        59. objavio: 65      60. pod: 65         
+61. hrvatska: 65     62. putina: 65       63. zelenski: 65     64. milijuna: 65    
+65. smo: 65          66. sastanka: 65     67. rusija: 63       68. kada: 63        
+69. bila: 62         70. bilo: 62         71. piše: 62         72. uoči: 61        
+73. svoje: 61        74. jedna: 61        75. nekoliko: 59     76. hrvatski: 59    
+77. aljasci: 58      78. požar: 58        79. nego: 57         80. dvije: 57       
+81. donalda: 56      82. neće: 56         83. sati: 56         84. ponovno: 56     
+85. prvi: 55         86. ruski: 55        87. mogu: 55         88. kojoj: 54       
+89. tko: 54          90. među: 53         91. nisu: 53         92. ukrajinski: 52  
+93. nove: 52         94. jer: 50          95. otkrio: 50       96. eura: 49        
+97. premijer: 49     98. području: 48     99. nedjelju: 48     100. sad: 48        
 ```
 
 ## 2025-W32
