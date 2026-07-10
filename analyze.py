@@ -3,6 +3,36 @@ import re
 from collections import Counter, defaultdict
 from datetime import datetime
 
+STOPWORDS = {
+    'a', 'ako', 'ali', 'bi', 'bih', 'bila', 'bili', 'bilo', 'bio',
+    'bismo', 'biste', 'biti', 'bumo', 'da', 'do', 'duž', 'dva', 'dvije',
+    'dalje', 'danas', 'dok', 'evo', 'ga', 'gdje', 'gotovo', 'hoće',
+    'hoćemo', 'hoćete', 'hoćeš', 'hoću', 'i', 'iako', 'ih', 'ima', 'iz',
+    'između', 'ja', 'je', 'jedan', 'jedna', 'jedne', 'jedno', 'jer',
+    'jesam', 'jesi', 'jesmo', 'jest', 'jeste', 'jesu', 'jim', 'joj',
+    'još', 'ju', 'kad', 'kada', 'kako', 'kao', 'kod', 'koja', 'kojeg',
+    'kojem', 'koji', 'kojima', 'kojoj', 'koju', 'koliko', 'kroz', 'li',
+    'me', 'među', 'mene', 'meni', 'mi', 'mimo', 'milijuna', 'moj', 'moja',
+    'moje', 'može', 'mogu', 'mogao', 'mora', 'mu', 'na', 'nad', 'nakon',
+    'nam', 'nama', 'nas', 'najmanje', 'naš', 'naša', 'naše', 'našeg',
+    'ne', 'nego', 'neka', 'neki', 'nekog', 'neku', 'nema', 'netko',
+    'neće', 'nećemo', 'nećete', 'nećeš', 'neću', 'nešto', 'ni', 'nije',
+    'nikoga', 'nikoje', 'nikoju', 'nisam', 'nisi', 'nismo', 'niste',
+    'nisu', 'njega', 'njegov', 'njegova', 'njegovo', 'njemu', 'njezin',
+    'njezina', 'njezino', 'njih', 'njihov', 'njihova', 'njihovo', 'njim',
+    'njima', 'njoj', 'nju', 'no', 'o', 'od', 'odmah', 'oko', 'on', 'ona',
+    'oni', 'ono', 'ovaj', 'ova', 'ove', 'ovog', 'ovo', 'pa', 'pak',
+    'pet', 'po', 'pod', 'pored', 'ponovno', 'prije', 'sad', 'sada', 's',
+    'sa', 'sam', 'samo', 'se', 'sebe', 'sebi', 'si', 'smo', 'ste', 'su',
+    'sve', 'svi', 'svih', 'svog', 'svoj', 'svoja', 'svoje', 'svom', 'ta',
+    'tada', 'taj', 'tako', 'te', 'tebe', 'tebi', 'ti', 'tijekom', 'to',
+    'toj', 'tome', 'treba', 'tri', 'tu', 'tvoj', 'tvoja', 'tvoje', 'u',
+    'unatoč', 'uoči', 'uz', 'vam', 'vama', 'vas', 'vaš', 'vaša', 'vaše',
+    'već', 'vi', 'više', 'vrlo', 'za', 'zar', 'zbog', 'zašto', 'će',
+    'ćemo', 'ćete', 'ćeš', 'ću', 'četiri', 'čak', 'što', 'tko', 'koje',
+    'prema', 'bez', 'ili',
+}
+
 if __name__ == '__main__':
     try:
         # Open and read the JSONL file containing articles
@@ -31,7 +61,10 @@ if __name__ == '__main__':
             text = text.lower().strip()
             words = [re.sub(r'^\W+|\W+$', '', word) for word in text.split()]
             # Add words to the week's list if they are at least 3 characters long
-            all_words_by_week[week_in_year].extend(word for word in words if len(word) >= 3)
+            all_words_by_week[week_in_year].extend(
+                word for word in words
+                if len(word) >= 3 and word not in STOPWORDS
+            )
 
     # Start building the markdown output
     md_output = "# Tjedna analiza frekvencija riječi u hrvatskim medijima\n"
