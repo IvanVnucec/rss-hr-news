@@ -1,4 +1,5 @@
 import json
+import re
 from collections import Counter, defaultdict
 from datetime import datetime
 
@@ -26,9 +27,9 @@ if __name__ == '__main__':
     for week_in_year, week_articles in grouped_articles.items():
         for article in week_articles:
             # Combine title and description, convert to lowercase, and split into words
-            text = article['title'] + ' ' + article['description']
+            text = (article.get('title') or '') + ' ' + (article.get('description') or '')
             text = text.lower().strip()
-            words = text.split()
+            words = [re.sub(r'^\W+|\W+$', '', word) for word in text.split()]
             # Add words to the week's list if they are at least 3 characters long
             all_words_by_week[week_in_year].extend(word for word in words if len(word) >= 3)
 
